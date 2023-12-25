@@ -35,6 +35,10 @@ func main() {
     fmt.Println(d)
 	fmt.Println(int64(t))
 	fmt.Println(math.Sin(n))
+
+
+	// for 
+	
 }
 
 // Learning-Golang
