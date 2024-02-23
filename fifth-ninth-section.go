@@ -18,6 +18,7 @@ func myfile() {
         fmt.Println("three")
     }
 
+	
     switch time.Now().Weekday() {
     case time.Saturday, time.Sunday:
         fmt.Println("It's the weekend")
