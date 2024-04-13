@@ -91,7 +91,7 @@ func main() {
 			fmt.Println("either 8 or 7 are even")
 		}
 	
-		if num := 9; num < 0 {
+		if num := 9; num < 0 { 
 			fmt.Println(num, "is negative")
 		} else if num < 10 {
 			fmt.Println(num, "has 1 digit")
